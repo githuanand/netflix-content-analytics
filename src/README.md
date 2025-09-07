@@ -7,7 +7,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/githuanand/netflix-content-analytics?style=social)
 ![Forks](https://img.shields.io/github/forks/githuanand/netflix-content-analytics?style=social)
 
