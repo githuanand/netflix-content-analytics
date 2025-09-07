@@ -1,11 +1,16 @@
 # 🎬 Netflix Content Analytics  
 ![Banner](images/banner.png)
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-9cf?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative&logoColor=black)
+![Stars](https://img.shields.io/github/stars/githuanand/netflix-content-analytics?style=social)
+![Forks](https://img.shields.io/github/forks/githuanand/netflix-content-analytics?style=social)
+![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&logoColor=white)
 
 ---
 

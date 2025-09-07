@@ -1,0 +1,4 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,USA,2010-07-16,2010,PG-13,148 min,"Sci-Fi, Thriller",A thief enters dreams to steal secrets.
+s2,TV Show,Stranger Things,,Millie Bobby Brown,USA,2016-07-15,2016,TV-14,3 Seasons,"Drama, Fantasy, Horror",Kids uncover supernatural mysteries.
+s3,Movie,Parasite,Bong Joon-ho,Song Kang-ho,South Korea,2019-05-30,2019,R,132 min,"Thriller, Drama",A poor family infiltrates a wealthy household.
