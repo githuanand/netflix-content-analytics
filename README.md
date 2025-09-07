@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualizations-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Stars](https://img.shields.io/github/stars/<your-username>/netflix-content-analytics?style=social)
+
 
 ---
 
