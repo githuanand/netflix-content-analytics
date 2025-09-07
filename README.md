@@ -119,7 +119,7 @@ jupyter notebook notebooks/ANALYTICS_OF_NETFLIX_CONTENT.ipynb
 
 ---
 
-## **Step 5 — Initialize Git & Push to GitHub**
+## **5 — Initialize Git & Push to GitHub**
 
 1. Open terminal inside VS Code:
 ```bash
