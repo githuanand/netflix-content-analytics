@@ -10,7 +10,6 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/githuanand/netflix-content-analytics?style=social)
 ![Forks](https://img.shields.io/github/forks/githuanand/netflix-content-analytics?style=social)
-![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin&logoColor=white)
 
 ---
 
