@@ -12,14 +12,6 @@
 
 ---
 
-## 🌟 Story Behind the Project  
-
-> “In 1997, Netflix started as a DVD rental company.  
-> Today, it’s a **global streaming giant** with millions of hours of content.  
-> But with so many shows and movies released every year, one big question arises —  
-> **What do people really watch?**  
-> That curiosity led me to dive into Netflix’s data and uncover some **fascinating insights**.”
-
 This project is my attempt to **decode Netflix’s content strategy** using **data analytics**.  
 From exploring release trends to understanding audience preferences, I’ve turned raw data into **actionable insights** — all through Python and visualization techniques.
 
